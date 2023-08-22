@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
        backgroundColor: '#fdc'
     },
      android: {
-      backgroundColor: '#fdc'
+      backgroundColor: '#ccffff'
     },
   }),
  },
